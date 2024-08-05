@@ -1,0 +1,321 @@
+    1  ls
+    2  ls
+    3  cd git-tutorial
+    4  cd devops-project
+    5  ls
+    6  cd ..
+    7  ls
+    8  cd devops-project
+    9  git init
+   10  ls -a
+   11  cd .git
+   12  ls
+   13  cd..
+   14  cd ..
+   15  pwd
+   16  touch laila.txt
+   17  ls
+   18  touch majnu.txt
+   19  ls
+   20  ls -l
+   21  ls
+   22  git status
+   23  ls
+   24  ls
+   25  cd git-tutorial
+   26  ls
+   27  cd devops-project
+   28  ls
+   29  git add laila.txt
+   30  git status
+   31  ls
+   32  cd git-tutorials
+   33  cd git-tutorial
+   34  ls
+   35  cd devops-project
+   36  ls -l
+   37  ls -a
+   38  git status
+   39  .git add majnu.txt
+   40  git add majnu.txt
+   41  ls
+   42  git status
+   43  git commit -m "feat: added laila majnu"
+   44  ls
+   45  git status
+   46  ls
+   47  git status
+   48  git log
+   49  ls
+   50  rm majnu.txt
+   51  ls
+   52  git status
+   53  git restore majnu.txt
+   54  git status
+   55  la
+   56  ls
+   57  git log
+   58  history
+   59  ls
+   60  pwd
+   61  ls -l
+   62  ls -a
+   63  ls
+   64  git log
+   65  time
+   66  pwd
+   67  git status
+   68  lss
+   69  ls
+   70  pwd
+   71  clear
+   72  ls
+   73  cd git-tutorial
+   74  ls
+   75  cd devops-project
+   76  ls
+   77  git status
+   78  git log
+   79  git log --oneline
+   80  clear
+   81  ls
+   82  cd git-tutorials
+   83  cd git-tutorial
+   84  ls
+   85  ls -l
+   86  ls -a
+   87  cd project1
+   88  cd project-1
+   89  ls
+   90  ls -a
+   91  cd
+   92  ls
+   93  cd git-tutorial
+   94  ls3
+   95  ls
+   96  cd devops-project
+   97  ls
+   98  ls -l
+   99  ls -a
+  100  git staus
+  101  git status
+  102  git log
+  103  clear
+  104  ls -l
+  105  ld p-a
+  106  ls -a
+  107  cd git-tutorila
+  108  git-tutorial
+  109  cd git-tutorial
+  110  ls
+  111  cd devops-project
+  112  ls
+  113  cat majnu.txt
+  114  git status
+  115  git add abc.txt
+  116  touch abc.txt
+  117  ls
+  118  git add abc.txt
+  119  git status
+  120  git log
+  121  git commit -m "feat:added abc"
+  122  git log
+  123  rm abc.txt
+  124  ls
+  125  git log
+  126  git restore abc.txt
+  127  ls
+  128  git log --oneline
+  129  git config --global user.name "yashh"
+  130  git config --global user.email "gautamyash375"
+  131  git status
+  132  git log
+  133  vim abc.txt
+  134  git status.
+  135  git status
+  136  git add abc.txt
+  137  git status
+  138  git commit -m "fix: minor changes"
+  139  git status
+  140  git log
+  141  git log --oneline
+  142  git log --pretty
+  143  git checkout -b dev
+  144  ls
+  145  git status
+  146  git log
+  147  git log --oneline
+  148  git status
+  149  touch xyz.txt
+  150  ls
+  151  vim xyz.txt
+  152  git status
+  153  git add xyz.txt
+  154  git status
+  155  git commit -m "feat:added xyz"
+  156  git log --oneline
+  157  git switch master
+  158  git status
+  159  git log
+  160  clear
+  161  ls
+  162  pwd
+  163  mkdir test1 test2 test3
+  164  ls
+  165  mkdir test4.tst
+  166  ls
+  167  rm test4.tst
+  168  rm -r test4.tst
+  169  ls
+  170  touch test4.tst
+  171  .ls
+  172  ls
+  173  name
+  174  /bin
+  175  cd bin
+  176  cd /bin
+  177  ls
+  178  clear
+  179  vm test4.tst
+  180  cd
+  181  vm test4.tst
+  182  ls
+  183  vim test4.tst
+  184  ls
+  185  cat test4.tst
+  186  rm -r *test
+  187  rm -r .*test
+  188  rm -r test1 test2 test3
+  189  ls
+  190  rm test4.tst
+  191  ls
+  192  CLEAR
+  193  cler
+  194  clear
+  195  ls
+  196  cd git-tutorials
+  197  cd git-tutorial
+  198  ls
+  199  cd /bin
+  200  ls
+  201  cd
+  202  ls
+  203  cd git-tutorial
+  204  ls
+  205  cd devops-project
+  206  ls
+  207  ls -l
+  208  ls -a
+  209  cd
+  210  ls -a
+  211  cd git-tutorial
+  212  ls -a
+  213  cd devops-project
+  214  ls -a
+  215  git status
+  216  git log
+  217  clear
+  218  ls
+  219  clear
+  220  ls
+  221  cd git-tutorial
+  222  ls
+  223  cd devops-project
+  224  ls
+  225  git status
+  226  git branch
+  227  git remote -v
+  228  git checkout dev
+  229  ls
+  230  git log --oneline
+  231  vim xyz2.txt
+  232  ls
+  233  git add xyz2.txt
+  234  git commit -m 
+  235  git commit -m "added xyz2"
+  236  clear
+  237  vim abc2.txt
+  238  vim xyz2.txt
+  239  git add xyz2.txt
+  240  git commit -m "xyz2.txt"
+  241  vim xyz2.txt
+  242  git add xyz2.txt
+  243  git commit -m "fixes to xyz2"
+  244  clear
+  245  vim xyz3.txt
+  246  git add xyz3.txt
+  247  git commit -m "added xyz2"
+  248  git commit -m :added xyz3"
+  249  git add xyz3.txt
+  250  git commit -m "added xyz3"
+  251  git log --one line
+  252  git log --oneline
+  253  ls
+  254  cat xyz.txt
+  255  cat xyz2.txt
+  256  cat xyz3.txt
+  257  vim xyz2.txt
+  258  git add xyz2.txt
+  259  git commit -m "added gadbad"
+  260  git log --oneline
+  261  vim xyz3.txt
+  262  git add xyz3.txt
+  263  git commit -m "added xyz3 chnages"
+  264  git log --oneline
+  265  git revert b47b23a
+  266  ls
+  267  git log --oneline
+  268  cat xyz2.txt
+  269  ls
+  270  clear
+  271  ls
+  272  cd git-tutorial
+  273  ls
+  274  cd devops-project
+  275  ls
+  276  git remote add origin git@github.com:ygautam77/devops-project.git
+  277  clear
+  278  ls
+  279  cd git-tutorial
+  280  cd devops0project
+  281  cd devops-project
+  282  ls
+  283  git remote add origin git@github.com:ygautam77/devops-project.git
+  284  git status
+  285  git switch master
+  286  git staus
+  287  git status
+  288  git push origin master
+  289  clear
+  290  git --version
+  291  git
+  292  clear
+  293  cd git-tutorial
+  294  git clone git@github.com:ygautam77/yashhhhh.git
+  295  clear
+  296  git clone https://github.com/ygautam77/yashhhhh.git
+  297  ls
+  298  cd yashhhh
+  299  git status
+  300  cd yashhhhh
+  301  ls
+  302  git status
+  303  clear
+  304  cd ssh
+  305  cd .ssh
+  306  ls
+  307  ssh-keygen
+  308  ls
+  309  cat id-ed25519
+  310  cat id_ed25519
+  311  cat id_ed25519.pub
+  312  cd
+  313  cd git-tutorial
+  314  ls
+  315  git status
+  316  git clone git@github.com:ygautam77/devops7.git
+  317  ls
+  318  cd devops7
+  319  ls
+  320  git status
+  321  history > allcommands.txt
